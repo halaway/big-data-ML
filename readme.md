@@ -9,7 +9,7 @@ For this project, we are given a CSV file consisting of 569 rows of individual s
 |842302 | M  | 17.99 | 10.38 |122.8 | 1001 | 0.1184| 0.2776| 
 | 842517 | M | 20.57 | 21.77  |  132.9 | 1326 | 0.08474 | 0.07864 | 
 
-,,area_mean
+
 
 ### Integrating Spark With LinearSVC and RandomForest
 This project is essentially contained within the ML Class, where different methods
