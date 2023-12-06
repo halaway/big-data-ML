@@ -1,4 +1,4 @@
-# Machine Learning Models: Integrating Spark
+# Machine Learning Models for Cancer Diagnosis: Integrating Spark
 ### Introduction
 Leveraging distributed systems for tackling machine learning problems, typically increases query optimization and model performance when accounting for faster execution times and parallel data processing.
 
