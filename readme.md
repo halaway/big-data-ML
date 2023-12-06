@@ -20,11 +20,14 @@ metrics.
     </div>
 </div>
    
-<div style="display: flex; align-items: center;">    
-    
+<div >    
+
+    <p align = 'center'>
 | Precision       | Recall  | Accuracy   | F1-Score  | 
 | -------- |:------:| --------:| ---------------------- |
 |0.999|   0.914    |	   0.965	  |  0.955     |  
+
+</p>
 
 </div>
 
