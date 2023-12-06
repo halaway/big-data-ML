@@ -12,6 +12,23 @@ metrics.
 ### Linear SVC Performance Metrics
 
 
+
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img align='left' src = "https://github.com/halaway/big-data-ML/assets/31904474/33ebd981-cecf-4906-9091-e4d748f86f75" width=50% height=50% > 
+    </div>
+    <div style="flex: 1;">
+        <p align="center"> 
+          
+| Precision       | Recall  | Accuracy   | F1-Score  | 
+| -------- |:------:| --------:| ---------------------- |
+|0.999|   0.914    |	   0.965	  |  0.955     |  
+        </p>
+    </div>
+</div>
+
+
 <img align='left' src = "https://github.com/halaway/big-data-ML/assets/31904474/33ebd981-cecf-4906-9091-e4d748f86f75" width=50% height=50% > 
 
 | Precision       | Recall  | Accuracy   | F1-Score  | 
