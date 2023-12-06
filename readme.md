@@ -24,12 +24,14 @@ metrics.
 
 Testing the model's predicted values against the true values created the following metrics 
 as measures of the model's predictive ability. 
+<br clear="left"/>
 
 
 ### Random Forest Performance Metrics
-<img align='left' src= " https://github.com/halaway/big-data-ML/assets/31904474/4fd81ba1-9b36-4251-a38b-df103063720e" width=50% > 
+<img align='left' src= "https://github.com/halaway/big-data-ML/assets/31904474/4fd81ba1-9b36-4251-a38b-df103063720e" width=40% > 
 <img align = 'right' src="https://github.com/halaway/big-data-ML/assets/31904474/2503670a-4817-45c0-b8c9-df5e045dc22a" width=40%>
 
+<br clear="left"/>
 
 
 
