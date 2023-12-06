@@ -2,7 +2,7 @@
 ### Introduction
 Leveraging distributed systems for tackling machine learning problems, typically increases query optimization and model performance when accounting for faster execution times and parallel data processing.
 
-We are given a CSV file consisting of 569 rows of individual samples defining some diagnosis of either "Benign” or ”Malignant” and twenty measured clinical variables. For this project, we use Spark along with two machine learning models, ie. LinearSVC and Random Forest Classifiers, for predicting the positive target variable of our data set, or the ”Malignant” diagnosis.
+For this project, we are given a CSV file consisting of 569 rows of individual samples defining some diagnosis of either "Benign” or ”Malignant” and twenty measured clinical variables. We then use Spark along with two machine learning models, ie. LinearSVC and Random Forest Classifiers, for predicting the positive target variable of our data set, or the ”Malignant” diagnosis.
 
 ### Integrating Spark With LinearSVC and RandomForest
 This project is essentially contained within the ML Class, where different methods
