@@ -13,7 +13,7 @@ metrics.
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        <img align='left' src = "https://github.com/halaway/big-data-ML/assets/31904474/33ebd981-cecf-4906-9091-e4d748f86f75" width=50% height=50% > 
+        <img align='left' src = "https://github.com/halaway/big-data-ML/assets/31904474/33ebd981-cecf-4906-9091-e4d748f86f75" width=35% height=35% > 
     </div>
 </div>
    
@@ -28,8 +28,8 @@ as measures of the model's predictive ability.
 
 
 ### Random Forest Performance Metrics
-<img align='left' src= "https://github.com/halaway/big-data-ML/assets/31904474/4fd81ba1-9b36-4251-a38b-df103063720e" width=40% > 
-<img align = 'right' src="https://github.com/halaway/big-data-ML/assets/31904474/2503670a-4817-45c0-b8c9-df5e045dc22a" width=40%>
+<img align='left' src= "https://github.com/halaway/big-data-ML/assets/31904474/4fd81ba1-9b36-4251-a38b-df103063720e" width=35% height=35% > 
+<img align = 'right' src="https://github.com/halaway/big-data-ML/assets/31904474/2503670a-4817-45c0-b8c9-df5e045dc22a" width=35% height=35%>
 
 <br clear="left"/>
 
