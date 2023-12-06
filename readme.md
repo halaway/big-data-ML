@@ -11,25 +11,28 @@ metrics.
 
 ### Linear SVC Performance Metrics
 
-
-
-
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <img align='left' src = "https://github.com/halaway/big-data-ML/assets/31904474/33ebd981-cecf-4906-9091-e4d748f86f75" width=50% height=50% > 
     </div>
 </div>
    
-<div >    
 
-    <p align = 'center'>
 | Precision       | Recall  | Accuracy   | F1-Score  | 
 | -------- |:------:| --------:| ---------------------- |
 |0.999|   0.914    |	   0.965	  |  0.955     |  
 
-</p>
+Testing the model's predicted values against the true values created the following metrics 
+as measures of the model's predictive ability. 
 
-</div>
+
+### Random Forest Performance Metrics
+<img align='left' src= " https://github.com/halaway/big-data-ML/assets/31904474/4fd81ba1-9b36-4251-a38b-df103063720e" width=50% > 
+<img align = 'right' src="https://github.com/halaway/big-data-ML/assets/31904474/2503670a-4817-45c0-b8c9-df5e045dc22a" width=40%>
+
+
+
+
 
 # General Use
 The main file contains a few lines of code that create an ML Class depending on 
