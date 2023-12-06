@@ -17,10 +17,13 @@ metrics.
     </div>
 </div>
    
-
+<p align='center'>
+    
 | Precision       | Recall  | Accuracy   | F1-Score  | 
 | -------- |:------:| --------:| ---------------------- |
 |0.999|   0.914    |	   0.965	  |  0.955     |  
+</p>
+
 
 Testing the model's predicted values against the true values created the following metrics 
 as measures of the model's predictive ability. 
