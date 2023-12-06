@@ -34,6 +34,10 @@ as measures of the model's predictive ability.
 <img align='left' src= "https://github.com/halaway/big-data-ML/assets/31904474/4fd81ba1-9b36-4251-a38b-df103063720e" width=35% height=35% > 
 <img align = 'center' src="https://github.com/halaway/big-data-ML/assets/31904474/2503670a-4817-45c0-b8c9-df5e045dc22a" width=35% height=35%>
 
+| Precision       | Recall  | Accuracy   | F1-Score  | 
+| -------- |:------:| --------:| ---------------------- |
+|0.941|   0.914  |	  0.942	  |0.928 | 
+
 <br clear="left"/>
 
 
