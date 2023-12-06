@@ -10,7 +10,7 @@ are used for instantiating, fitting, and plotting the model along with their per
 metrics. 
 
 ### Linear SVC Performance Metrics
-![svc_cm](https://github.com/halaway/big-data-ML/assets/31904474/33ebd981-cecf-4906-9091-e4d748f86f75)
+![svc_cm](https://github.com/halaway/big-data-ML/assets/31904474/33ebd981-cecf-4906-9091-e4d748f86f75 | width = 200)
 
 
 
